@@ -1,4 +1,5 @@
 # Git_Workout
 To consolidate my Git Knowledge 
 
-![Git_ WorkOut@2x](https://github.com/user-attachments/assets/bd7a2410-7060-4012-82c0-abf741a9fc6f)
+![image](https://github.com/user-attachments/assets/5a5a6fd1-0c6c-4b0c-83e4-8a869e0ebc57)
+
